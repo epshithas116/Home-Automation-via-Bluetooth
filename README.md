@@ -1,8 +1,5 @@
 # Home-Automation-via-Bluetooth
-* **Intern Name:** Surisetty Epshitha
-* **Company:** CODTECH IT SOLUTIONS PVT. LTD.
-* **Domain:** Embedded Systems
-* **Duration:** 4 Weeks
+ **Domain:** Embedded Systems
 
 ---
 
